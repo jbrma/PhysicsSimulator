@@ -1,0 +1,18 @@
+Jorge Bravo Mateos
+
+Main
+FollowNext
+FollowNextBuilder
+
+Main
+NZone
+
+BodiesGroup
+PhysicsSimulator
+SimulatorObserver
+Controller
+Todas las clases que implementan SimulatorObserver
+Viewer
+ViewerWindow
+ControlPanel
+RemoveDialog
